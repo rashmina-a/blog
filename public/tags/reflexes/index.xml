@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Reflexes on Terminal</title>
-    <link>/tags/reflexes/</link>
-    <description>Recent content in Reflexes on Terminal</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/reflexes/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Reflex Core</title>
-      <link>/posts/posts/reflex-core/</link>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-      <guid>/posts/posts/reflex-core/</guid>
-      <description>&lt;p&gt;Guys check out my website that i made to test your reflex.&#xA;&lt;a href=&#34;https://rashmina-a.github.io/reflexcore/&#34;&gt;https://rashmina-a.github.io/reflexcore/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;!&lt;img src=&#34;/images/Pasted%20image%2020260527104519.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Reflexes on Terminal</title>
+		<link>/tags/reflexes/</link>
+		<description>Recent content in Reflexes on Terminal</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="/tags/reflexes/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Reflex Core</title>
+				<link>/posts/posts/blog/</link>
+				<pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+				<guid>/posts/posts/blog/</guid>
+				<description>&lt;p&gt;Guys check out my website that i made to test your reflex.&#xA;&lt;a href=&#34;https://rashmina-a.github.io/reflexcore/&#34;&gt;https://rashmina-a.github.io/reflexcore/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;!&lt;img src=&#34;/images/Pasted%20image%2020260527104519.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;title: Hermes Hacker Agent&#xA;date: 2026-05-27&#xA;draft: false&#xA;tags:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Reflexes&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Guys checkout this Agent that hacks for me and i can chat with him using telegram dont worry you cant chat with him i only have acess .&#xA;!&lt;img src=&#34;/images/Screenshot_20260527_184651%201.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
