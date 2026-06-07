@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Thu, 28 May 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Tue, 02 Jun 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Enjoying Codex</title>
+				<link>/posts/posts/enjoying-codex/</link>
+				<pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>/posts/posts/enjoying-codex/</guid>
+				<description>&lt;p&gt;Yo this codex thing is super coollllll !!!!!&#xA;!&lt;img src=&#34;/images/Screenshot_20260602_150236.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>New Typing record</title>
 				<link>/posts/posts/new-typing-record/</link>
