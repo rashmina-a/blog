@@ -11,4 +11,4 @@ tags:
 Guys check out my website that i made to test your reflex.
 https://rashmina-a.github.io/reflexcore/
 
-![[Pasted image 20260527104519.png]]
+!![Image Description](/images/Pasted%20image%2020260527104519.png)

@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Tue, 02 Jun 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Sun, 07 Jun 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Hyprland is cool</title>
+				<link>/posts/posts/hypr-land-is-so-cool/</link>
+				<pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>/posts/posts/hypr-land-is-so-cool/</guid>
+				<description>&lt;p&gt;Yo This hyprland theme looks so cool Its one of my favourite window managers .&lt;/p&gt;&#xA;&lt;p&gt;!&lt;img src=&#34;/images/Pasted%20image%2020260607122726.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Enjoying Codex</title>
 				<link>/posts/posts/enjoying-codex/</link>

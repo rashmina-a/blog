@@ -9,4 +9,4 @@ tags:
 ---
 Yo This hyprland theme looks so cool Its one of my favourite window managers .
 
-![[Pasted image 20260607122726.png]]
+!![Image Description](/images/Pasted%20image%2020260607122726.png)
