@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Tails on Terminal</title>
+		<link>/tags/tails/</link>
+		<description>Recent content in Tails on Terminal</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 22 Jun 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="/tags/tails/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Tails OS</title>
+				<link>/posts/posts/tails-is-so-cool/</link>
+				<pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>/posts/posts/tails-is-so-cool/</guid>
+				<description>&lt;p&gt;I installed tails on my USB and the experience is so great the os is beautiful and the Applications are very helpful , The best thing is that it connects to the tor network by default . So it has extreme privacy and security .&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
