@@ -1,2 +1,13 @@
+
+---
+title: pidigits1mil
+date: 2026-06-30
+draft: false
+tags:
+   - Benchmark
+   - Github
+   - Python
+---
+
 This tool that i built help you benchmark your PC by running a python code that generates the first 1 million digits of PI , Its cool try it out 
 !![Image Description](/images/Pasted%20image%2020260630162645.png)
