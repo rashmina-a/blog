@@ -62,5 +62,12 @@
 				<guid>/posts/posts/blog/</guid>
 				<description>&lt;p&gt;Guys check out my website that i made to test your reflex.&#xA;&lt;a href=&#34;https://rashmina-a.github.io/reflexcore/&#34;&gt;https://rashmina-a.github.io/reflexcore/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;!&lt;img src=&#34;/images/Pasted%20image%2020260527104519.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
 			</item>
+			<item>
+				<title></title>
+				<link>/posts/posts/pi-digits-generator-1-million/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>/posts/posts/pi-digits-generator-1-million/</guid>
+				<description>&lt;p&gt;This tool that i built help you benchmark your PC by running a python code that generates the first 1 million digits of PI , Its cool try it out&#xA;!&lt;img src=&#34;/images/Pasted%20image%2020260630162645.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
+			</item>
 	</channel>
 </rss>
