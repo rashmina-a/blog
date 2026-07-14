@@ -10,6 +10,6 @@ tags:
 ---
 Guys checkout my new arch ricing setup !!!
 
-![[screenshot_20260714_194228.jpg]]
+!![Image Description](/images/Pasted%20image%2020260714200952.png)
 
 Credits - ML4W
