@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Tue, 30 Jun 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Tue, 14 Jul 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>My new arch ricing setup</title>
+				<link>/posts/posts/my-new-arch-rice-setup/</link>
+				<pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>/posts/posts/my-new-arch-rice-setup/</guid>
+				<description>&lt;p&gt;Guys checkout my new arch ricing setup !!!&#xA;![[screenshot_20260714_194228.jpg]]&#xA;Credits - ML4W&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>pidigits1mil</title>
 				<link>/posts/posts/pi-digits-generator-1-million/</link>
@@ -47,13 +54,6 @@
 				<pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
 				<guid>/posts/posts/enjoying-codex/</guid>
 				<description>&lt;p&gt;Yo this codex thing is super coollllll !!!!!&#xA;!&lt;img src=&#34;/images/Screenshot_20260602_150236.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>My new arch ricing setup</title>
-				<link>/posts/posts/my-new-arch-rice-setup/</link>
-				<pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-				<guid>/posts/posts/my-new-arch-rice-setup/</guid>
-				<description>&lt;p&gt;Guys checkout my new arch ricing setup !!!&#xA;![[screenshot_20260714_194228.jpg]]&#xA;Credits - ML4W&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>New Typing record</title>

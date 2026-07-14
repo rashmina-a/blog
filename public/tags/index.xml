@@ -10,9 +10,37 @@
 		
 		
 		
-			<lastBuildDate>Tue, 30 Jun 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Tue, 14 Jul 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Arch</title>
+				<link>/tags/arch/</link>
+				<pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>/tags/arch/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Hyprland</title>
+				<link>/tags/hyprland/</link>
+				<pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>/tags/hyprland/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>ML4W</title>
+				<link>/tags/ml4w/</link>
+				<pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>/tags/ml4w/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Ricing</title>
+				<link>/tags/ricing/</link>
+				<pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>/tags/ricing/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Benchmark</title>
 				<link>/tags/benchmark/</link>
@@ -70,38 +98,10 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Hyprland</title>
-				<link>/tags/hyprland/</link>
-				<pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>/tags/hyprland/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Codex</title>
 				<link>/tags/codex/</link>
 				<pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
 				<guid>/tags/codex/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Arch</title>
-				<link>/tags/arch/</link>
-				<pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-				<guid>/tags/arch/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>ML4W</title>
-				<link>/tags/ml4w/</link>
-				<pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-				<guid>/tags/ml4w/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Ricing</title>
-				<link>/tags/ricing/</link>
-				<pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-				<guid>/tags/ricing/</guid>
 				<description></description>
 			</item>
 			<item>

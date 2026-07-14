@@ -10,22 +10,22 @@
 		
 		
 		
-			<lastBuildDate>Sun, 07 Jun 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Tue, 14 Jul 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="/tags/hyprland/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>My new arch ricing setup</title>
+				<link>/posts/posts/my-new-arch-rice-setup/</link>
+				<pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>/posts/posts/my-new-arch-rice-setup/</guid>
+				<description>&lt;p&gt;Guys checkout my new arch ricing setup !!!&#xA;![[screenshot_20260714_194228.jpg]]&#xA;Credits - ML4W&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Hyprland is cool</title>
 				<link>/posts/posts/hypr-land-is-so-cool/</link>
 				<pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
 				<guid>/posts/posts/hypr-land-is-so-cool/</guid>
 				<description>&lt;p&gt;Yo This hyprland theme looks so cool Its one of my favourite window managers .&lt;/p&gt;&#xA;&lt;p&gt;!&lt;img src=&#34;/images/Pasted%20image%2020260607122726.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>My new arch ricing setup</title>
-				<link>/posts/posts/my-new-arch-rice-setup/</link>
-				<pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-				<guid>/posts/posts/my-new-arch-rice-setup/</guid>
-				<description>&lt;p&gt;Guys checkout my new arch ricing setup !!!&#xA;![[screenshot_20260714_194228.jpg]]&#xA;Credits - ML4W&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

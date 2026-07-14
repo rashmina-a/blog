@@ -1,6 +1,6 @@
 ---
 title: My new arch ricing setup
-date: 2026-05-28
+date: 2026-07-14
 draft: false
 tags:
   - Arch
