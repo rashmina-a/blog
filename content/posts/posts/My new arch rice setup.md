@@ -9,5 +9,7 @@ tags:
   - Ricing
 ---
 Guys checkout my new arch ricing setup !!!
+
 ![[screenshot_20260714_194228.jpg]]
+
 Credits - ML4W
