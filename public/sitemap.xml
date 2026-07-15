@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/tags/github/</loc>
+    <lastmod>2026-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/package_manager/</loc>
+    <lastmod>2026-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2026-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/python/</loc>
+    <lastmod>2026-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/stepler/</loc>
+    <lastmod>2026-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/posts/stepler/</loc>
+    <lastmod>2026-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2026-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2026-07-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/arch/</loc>
     <lastmod>2026-07-14T00:00:00+00:00</lastmod>
   </url><url>
@@ -14,28 +38,13 @@
     <loc>/posts/posts/my-new-arch-rice-setup/</loc>
     <lastmod>2026-07-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/ricing/</loc>
-    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2026-07-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/benchmark/</loc>
     <lastmod>2026-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/github/</loc>
-    <lastmod>2026-06-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/posts/posts/pi-digits-generator-1-million/</loc>
-    <lastmod>2026-06-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/python/</loc>
     <lastmod>2026-06-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/privacy/</loc>

@@ -10,9 +10,37 @@
 		
 		
 		
-			<lastBuildDate>Tue, 14 Jul 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Github</title>
+				<link>/tags/github/</link>
+				<pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>/tags/github/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Package_manager</title>
+				<link>/tags/package_manager/</link>
+				<pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>/tags/package_manager/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Python</title>
+				<link>/tags/python/</link>
+				<pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>/tags/python/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Stepler</title>
+				<link>/tags/stepler/</link>
+				<pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>/tags/stepler/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Arch</title>
 				<link>/tags/arch/</link>
@@ -46,20 +74,6 @@
 				<link>/tags/benchmark/</link>
 				<pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
 				<guid>/tags/benchmark/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Github</title>
-				<link>/tags/github/</link>
-				<pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>/tags/github/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Python</title>
-				<link>/tags/python/</link>
-				<pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>/tags/python/</guid>
 				<description></description>
 			</item>
 			<item>

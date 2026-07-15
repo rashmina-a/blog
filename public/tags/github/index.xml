@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Tue, 30 Jun 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="/tags/github/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Stepler Package Manager</title>
+				<link>/posts/posts/stepler/</link>
+				<pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>/posts/posts/stepler/</guid>
+				<description>&lt;p&gt;Ok guys i made a new package manager called Stepler you can make packages, install packages globally and manage packages.&#xA;(Stepler Official)[https://github.com/rashmina-a/stepler]&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>pidigits1mil</title>
 				<link>/posts/posts/pi-digits-generator-1-million/</link>
