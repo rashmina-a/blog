@@ -7,4 +7,4 @@ tags:
   - Codex
 ---
 Yo this codex thing is super coollllll !!!!!
-!![Image Description](/images/Screenshot_20260602_150236.png)
+![[Screenshot_20260602_150236.png]]
