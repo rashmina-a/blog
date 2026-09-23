@@ -24,7 +24,7 @@ for filename in os.listdir(posts_dir):
         with open(filepath, "r", encoding="utf-8") as file:
             content = file.read()
 
-        fixed_content = content.replace("!![Image Description]", "![Image Description]")
+        fixed_content = content.replace("![Image Description]", "!![Image Description]")
         if fixed_content != content:
             print(f"Fixed double '!!' in: {filename}")
             content = fixed_content
