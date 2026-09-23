@@ -9,4 +9,4 @@ tags:
 
 This is unbelievable to me !
 
-![[Pasted image 20260612232952.png]]
+!![Image Description](/images/Pasted%20image%2020260612232952.png)

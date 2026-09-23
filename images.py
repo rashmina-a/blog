@@ -1,22 +1,13 @@
 import os
 import re
 import shutil
-from urllib.parse import unquote
 
+# Paths (using raw strings to handle Windows backslashes correctly)
 posts_dir = r"C:\Users\Lenovo\Documents\blog_hugo\content\posts\posts"
-attachments_dir = r"C:\Users\Lenovo\Documents\Life"   # <-- widened
+attachments_dir = r"C:\Users\Lenovo\Documents\Life"
 static_images_dir = r"C:\Users\Lenovo\Documents\blog_hugo\static\images"
 
-LINK_PATTERN = re.compile(r'/images/([^)]+\.(?:png|jpg|jpeg))', re.IGNORECASE)
-
-
-def find_image(filename, search_dir):
-    for root, dirs, files in os.walk(search_dir):
-        if filename in files:
-            return os.path.join(root, filename)
-    return None
-
-
+# Step 1: Process each markdown file in the posts directory
 for filename in os.listdir(posts_dir):
     if filename.endswith(".md"):
         filepath = os.path.join(posts_dir, filename)
@@ -24,23 +15,22 @@ for filename in os.listdir(posts_dir):
         with open(filepath, "r", encoding="utf-8") as file:
             content = file.read()
 
-        fixed_content = content.replace("![Image Description]", "!![Image Description]")
-        if fixed_content != content:
-            print(f"Fixed double '!!' in: {filename}")
-            content = fixed_content
+        # Step 2: Find all image links in the format ![Image Description](/images/Pasted%20image%20...%20.png)
+        images = re.findall(r'\[\[([^]]*\.png)\]\]', content)
 
-        links = LINK_PATTERN.findall(content)
-        for encoded_name in links:
-            real_name = unquote(encoded_name)
+        # Step 3: Replace image links and ensure URLs are correctly formatted
+        for image in images:
+            # Prepare the Markdown-compatible link with %20 replacing spaces
+            markdown_image = f"![Image Description](/images/{image.replace(' ', '%20')})"
+            content = content.replace(f"[[{image}]]", markdown_image)
 
-            image_source = find_image(real_name, attachments_dir)
-            if image_source:
+            # Step 4: Copy the image to the Hugo static/images directory if it exists
+            image_source = os.path.join(attachments_dir, image)
+            if os.path.exists(image_source):
                 shutil.copy(image_source, static_images_dir)
-                print(f"✓ Copied: {real_name}")
-            else:
-                print(f"✗ NOT FOUND: {real_name}")
 
+        # Step 5: Write the updated content back to the markdown file
         with open(filepath, "w", encoding="utf-8") as file:
             file.write(content)
 
-print("Done — markdown fixed and images copied.")
+print("Markdown files processed and images copied successfully.")
