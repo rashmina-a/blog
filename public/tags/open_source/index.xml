@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Open_Source on Terminal</title>
+		<link>/tags/open_source/</link>
+		<description>Recent content in Open_Source on Terminal</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 24 Sep 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="/tags/open_source/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Exploring a fruit flys brain maleCNS project</title>
+				<link>/posts/posts/exploring-a-fruit-fly-brain/</link>
+				<pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>/posts/posts/exploring-a-fruit-fly-brain/</guid>
+				<description>&lt;p&gt;Google recently open sourced the schematic of a flys brain its just the map not the wights and stuff its just a few weeks after its been released i think and people are already doing crazy things with it a fly has been trained to play chess like this and it has 700 elo. I love how it works and i made my own program to explore the mapping digram,&#xA;!&lt;img src=&#34;/images/Pasted%20image%2020260924063514.png&#34; alt=&#34;Image Description&#34;&gt;&#xA;I think its so cool to explore a brain like this !&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
