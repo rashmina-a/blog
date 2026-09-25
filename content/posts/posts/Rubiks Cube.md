@@ -10,5 +10,5 @@ tags:
   - Hobby
 ---
 Just got a new 3x3x3 rubiks cube,
-![[rubiks_cube.jpeg]]
-Its the moyu RS3M v5 and its super cool ,What i love the most is the adjustibilty of it my previous cubes were not very adjustable and they were also trash ,But this one is very good compared to them.Im changing its settings by doing solves and changing it to my preferences
+!![Image Description](/images/Pasted%20image%2020260925161332.png)
+Its the moyu RS3M v5 and its super cool ,What i love the most is the adjustibilty of it my previousE cubes were not very adjustable and they were also trash ,But this one is very good compared to them.Im changing its settings by doing solves and changing it to my preferences
