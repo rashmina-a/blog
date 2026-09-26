@@ -11,3 +11,4 @@ and I dont want to be popular,Just know so of my general hobbies
 - swimming
 - skipping
 - learning new things
+- cubing
