@@ -10,21 +10,42 @@
 		
 		
 		
-			<lastBuildDate>Fri, 25 Sep 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Sun, 27 Sep 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
+				<title>Book</title>
+				<link>/tags/book/</link>
+				<pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>/tags/book/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Brand_new</title>
 				<link>/tags/brand_new/</link>
-				<pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+				<pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
 				<guid>/tags/brand_new/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Hobby</title>
 				<link>/tags/hobby/</link>
-				<pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+				<pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
 				<guid>/tags/hobby/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>New</title>
+				<link>/tags/new/</link>
+				<pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>/tags/new/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Reading</title>
+				<link>/tags/reading/</link>
+				<pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>/tags/reading/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -32,13 +53,6 @@
 				<link>/tags/moyu/</link>
 				<pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
 				<guid>/tags/moyu/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>New</title>
-				<link>/tags/new/</link>
-				<pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>/tags/new/</guid>
 				<description></description>
 			</item>
 			<item>
