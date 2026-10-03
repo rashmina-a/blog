@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Tue, 29 Sep 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Sat, 03 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Just got a big upgrade for my internet</title>
+				<link>/posts/posts/an-internet-upgrade/</link>
+				<pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>/posts/posts/an-internet-upgrade/</guid>
+				<description>&lt;p&gt;Guys ,I just got a brand new router with the AirFibre concept and its super fast and also it has a rechargable battery and it is portabel and a mobile sim can be inserted.&#xA;!&lt;img src=&#34;/images/Pasted%20image%2020261003190054.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Could be a big change for ubuntu users</title>
 				<link>/posts/posts/could-be-a-big-change-for-ubuntu-users/</link>
