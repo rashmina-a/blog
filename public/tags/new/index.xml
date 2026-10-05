@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sat, 03 Oct 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Mon, 05 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="/tags/new/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>I installed glance - A nice Dashboard</title>
+				<link>/posts/posts/glance-try-for-the-first-time/</link>
+				<pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>/posts/posts/glance-try-for-the-first-time/</guid>
+				<description>&lt;p&gt;Ok so today I installed Glance - A nice self-hosted dashboard application , I use it to get my news from hacker news , the weather and also an overview of my self hosted services. It looks cool , its light weight plus its super customizable ,So Its a really satisfying application to self host , Thank you to my friend Vihas for helping me build this and telling me about all these I also added a proxy + pihole setup which I can use to convert 127.0.0.1:4533 into navidrome.home , I also got that idea from Vihas heres his blog &lt;a href=&#34;https://methnula-blog.vercel.app&#34;&gt;Vihas Blog&lt;/a&gt;&#xA;!&lt;img src=&#34;/images/Pasted%20image%2020261005181812.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Just got a big upgrade for my internet</title>
 				<link>/posts/posts/an-internet-upgrade/</link>
