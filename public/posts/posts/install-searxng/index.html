@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   
-    <title> :: Terminal</title>
+    <title>Installed SearXNG - Private &amp; Self-hosted search engine :: Terminal</title>
   
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -79,7 +79,7 @@ services:redis:container_name: redisimage: docker.io/valkey/valkey:8-alpinec
 
 <meta property="og:locale" content="en" />
 <meta property="og:type" content="article" />
-<meta property="og:title" content="">
+<meta property="og:title" content="Installed SearXNG - Private &amp; Self-hosted search engine">
 <meta property="og:description" content="Today I installed SearXNG which is a Privacy Focused Search engine which is self hosted , I personally host it using docker desktop and also the docker cli with a docker-compose.yaml file i got from a youtuber ,Here the link to that .yaml file docker-compose.yaml or the code
 services:redis:container_name: redisimage: docker.io/valkey/valkey:8-alpinecommand: valkey-server --save 30 1 --loglevel warningrestart: unless-stoppednetworks:- searxngvolumes:- valkey-data:/datacap_drop:- ALLcap_add:- SETGID- SETUID- DAC_OVERRIDElogging:driver: &#34;json-file&#34;options:max-size: &#34;1m&#34;max-file: &#34;1&#34;searxng:container_name: searxngimage: docker.io/searxng/searxng:latestrestart: unless-stoppednetworks:- searxngports:- &#34;8181:8080&#34; #change 8181 as needed, but not 8080volumes:- searxng:/etc/searxng:rwenvironment:- SEARXNG_BASE_URL=http://your.docker.server.ip:8080/ #Change &#34;your.docker.server.ip&#34; to your Docker server&#39;s IP- UWSGI_WORKERS=4 #You can change this- UWSGI_THREADS=4 #You can change thiscap_drop:- ALLcap_add:- CHOWN- SETGID- SETUIDlogging:driver: &#34;json-file&#34;options:max-size: &#34;1m&#34;max-file: &#34;1&#34;networks:searxng:volumes:valkey-data: #redis storagesearxng: #searxng storage and it worked when i ran it the first time without any more configuration ,This is the basic interface ! and its pretty minimal and its fine - tunable if you want it to be , And you also have a Preferences page, ! where you can customize literally anything. I like because &ldquo;I dont wan&rsquo;t to be Sold&rdquo;.Here are some useful links SearXNG docs SearXNG github
 " />
@@ -91,6 +91,8 @@ services:redis:container_name: redisimage: docker.io/valkey/valkey:8-alpinec
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="627">
 
+
+  <meta property="article:published_time" content="2026-10-06 00:00:00 &#43;0000 UTC" />
 
 
 
@@ -167,10 +169,28 @@ services:redis:container_name: redisimage: docker.io/valkey/valkey:8-alpinec
     
 <article class="post">
   <h1 class="post-title">
-    <a href="/posts/posts/install-searxng/"></a>
+    <a href="/posts/posts/install-searxng/">Installed SearXNG - Private &amp; Self-hosted search engine</a>
   </h1>
-  <div class="post-meta"></div>
+  <div class="post-meta"><time class="post-date">2026-10-06</time></div>
 
+  
+    <span class="post-tags">
+      
+      #<a href="/tags/searxng/">searxng</a>&nbsp;
+      
+      #<a href="/tags/new/">New</a>&nbsp;
+      
+      #<a href="/tags/brand_new/">Brand_new</a>&nbsp;
+      
+      #<a href="/tags/self_host/">self_host</a>&nbsp;
+      
+      #<a href="/tags/open_source/">Open_Source</a>&nbsp;
+      
+      #<a href="/tags/development/">Development</a>&nbsp;
+      
+      #<a href="/tags/upgrade/">upgrade</a>&nbsp;
+      
+    </span>
   
   
 
@@ -253,11 +273,11 @@ where you can customize literally anything. I like because <em>&ldquo;I dont wan
   </div>
   <div class="pagination__buttons">
     
-      <a href="/posts/posts/blog/" class="button inline prev">
-        &lt; [<span class="button__text">Reflex Core</span>]
+    
+    
+      <a href="/posts/posts/glance-try-for-the-first-time/" class="button inline next">
+         [<span class="button__text">I installed glance - A nice Dashboard</span>] &gt;
       </a>
-    
-    
     
   </div>
 </div>

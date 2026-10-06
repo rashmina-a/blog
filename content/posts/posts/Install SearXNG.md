@@ -1,3 +1,16 @@
+---
+title: Installed SearXNG - Private & Self-hosted search engine
+date: 2026-10-06
+draft: false
+tags:
+  - searxng
+  - New
+  - Brand_new
+  - self_host
+  - Open_Source
+  - Development
+  - upgrade
+---
 Today I installed **SearXNG** which is a *Privacy Focused* Search engine which is self hosted , I personally host it using docker desktop and also the docker cli with a docker-compose.yaml file i got from a youtuber ,Here the link to that .yaml file [docker-compose.yaml](https://code.dbt3ch.com/jy9PkROF)
 or the code 
 ```
