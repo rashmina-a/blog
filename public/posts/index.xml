@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Tue, 06 Oct 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Sun, 11 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Installed KanBoard</title>
+				<link>/posts/posts/install-kanboard/</link>
+				<pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>/posts/posts/install-kanboard/</guid>
+				<description>&lt;p&gt;Ok today I installed &lt;strong&gt;KanBoard&lt;/strong&gt; which is a self hosted Project Management Software which I use for &lt;strong&gt;Spaced Repetition&lt;/strong&gt; when studying , I use it with several columns where I have these things called recall columns where I put the names of lessons as tasks which I studied Then I have columns where there are recall in 1,3,7,21 days and also an initial stage. I first put them into Initial stage and after studying it I put into recall 1 and then I put it to a column in front or back based on my recallability for that specific lesson. This helps preserve my memory of that lesson for a long &amp;hellip; time.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Deleted SearXNG</title>
+				<link>/posts/posts/delete-searxng/</link>
+				<pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>/posts/posts/delete-searxng/</guid>
+				<description>&lt;p&gt;I had to delete SearXNG beacause its slow and it takes a lot of time to load and I switched to duckduckgo for privacy which is also fast and has good AI feautures.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Installed SearXNG - Private &amp; Self-hosted search engine</title>
 				<link>/posts/posts/install-searxng/</link>
