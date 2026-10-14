@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Tue, 06 Oct 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Wed, 14 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Self hosted services update</title>
+				<link>/posts/posts/self-hosted-services-update/</link>
+				<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>/posts/posts/self-hosted-services-update/</guid>
+				<description>&lt;p&gt;I installed some new Self-Hosted services that I like recently.&lt;/p&gt;&#xA;&lt;h2 id=&#34;paperless---ngx&#34;&gt;Paperless - ngx&lt;/h2&gt;&#xA;&lt;p&gt;!&lt;img src=&#34;/images/Pasted%20image%2020261014100033.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;This is an self-hosted document manager that I host using a Docker Container I like it because it sorts out all my documents in a dashboard and I can easily search their titles , content and my more things.&#xA;&lt;a href=&#34;https://docs.paperless-ngx.com/setup/&#34;&gt;Paperless - ngx&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;calibre---web&#34;&gt;Calibre - Web&lt;/h2&gt;&#xA;&lt;p&gt;!&lt;img src=&#34;/images/Pasted%20image%2020261014100335.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;This is an ebook management software that works with the desktop app or the docker container Im using the app and this web container is hosted using docker and now I can read books on my laptop from my Tab or Phone and easily come back to where I left off , I didnt get much time to use it&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Installed SearXNG - Private &amp; Self-hosted search engine</title>
 				<link>/posts/posts/install-searxng/</link>
