@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Wed, 14 Oct 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Sat, 17 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>After Some Time</title>
+				<link>/posts/posts/after-some-time/</link>
+				<pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>/posts/posts/after-some-time/</guid>
+				<description>&lt;p&gt;Its been some time last I posted , I didnt post because there have been no major updates of my work and also I heard that you can now get banned from claude by being rude to the model because it messes up the training data. Jeez ! ,thats too intense. And also my self hosted services have been &lt;strong&gt;Pumping&lt;/strong&gt; the hell out of my RAM and CPU ,So I might consider migrating my services from my Main PC to a home server.Thats all I got to say, Stay Tuned !&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Self hosted services update</title>
 				<link>/posts/posts/self-hosted-services-update/</link>
