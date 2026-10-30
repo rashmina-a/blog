@@ -2,29 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/posts/posts/after-some-time/</loc>
-    <lastmod>2026-10-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/again/</loc>
-    <lastmod>2026-10-17T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/back/</loc>
+    <lastmod>2026-10-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/blog/</loc>
+    <lastmod>2026-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/brand_new/</loc>
+    <lastmod>2026-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2026-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/posts/exam-days/</loc>
+    <lastmod>2026-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2026-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2026-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/posts/after-some-time/</loc>
     <lastmod>2026-10-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/chill/</loc>
     <lastmod>2026-10-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2026-10-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2026-10-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2026-10-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/brand_new/</loc>
-    <lastmod>2026-10-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/development/</loc>
     <lastmod>2026-10-14T00:00:00+00:00</lastmod>
@@ -136,9 +142,6 @@
   </url><url>
     <loc>/tags/neurology/</loc>
     <lastmod>2026-09-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/back/</loc>
-    <lastmod>2026-09-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/for/</loc>
     <lastmod>2026-09-23T00:00:00+00:00</lastmod>

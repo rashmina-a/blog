@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Wed, 14 Oct 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Fri, 30 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="/tags/brand_new/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Prep for exam</title>
+				<link>/posts/posts/exam-days/</link>
+				<pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>/posts/posts/exam-days/</guid>
+				<description>&lt;p&gt;Okay, so I haven&amp;rsquo;t posted in quite a while because of my extension stuff. I&amp;rsquo;m studying for the exam stuff or things like that. So I will not post very frequently during this period that&amp;rsquo;s all I have to say&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Self hosted services update</title>
 				<link>/posts/posts/self-hosted-services-update/</link>
