@@ -10,9 +10,30 @@
 		
 		
 		
-			<lastBuildDate>Fri, 30 Oct 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Tue, 17 Nov 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Fun</title>
+				<link>/tags/fun/</link>
+				<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>/tags/fun/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Gaming</title>
+				<link>/tags/gaming/</link>
+				<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>/tags/gaming/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Stuff</title>
+				<link>/tags/stuff/</link>
+				<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>/tags/stuff/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Again</title>
 				<link>/tags/again/</link>
